@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "123534389735",
+    "project_id": "replayapp-b8f0f",
+    "storage_bucket": "replayapp-b8f0f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123534389735:android:172182f5f6f394653d4d42",
+        "android_client_info": {
+          "package_name": "com.example.masudreplayapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123534389735-ml1abhmdcqe4n1m3euf87ppcvig6alhp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYQRjKdRzZxjTXhN6xSfN4oFipeOhVId4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "123534389735-ml1abhmdcqe4n1m3euf87ppcvig6alhp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
